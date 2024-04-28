@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Redux, Express etc**
 
-- 👨‍💻 All of my projects are available at [amitraikwar.hourcoding.com](amitraikwar.hourcoding.com)
+- 👨‍💻 All of my projects are available at [amitraikwar.in](amitraikwar.in)
 
 - 📝 I regularly write articles on [blog.hourcoding.com](blog.hourcoding.com)
 
-- 💬 Ask me about **Native Android development, Jetpack compose**
+- 💬 Ask me about **React, React-Native, Jest**
 
-- 📫 How to reach me **managerarbusiness@gmail.com**
+- 📫 How to reach me **managerarbusiness@gmail.com | raikwar.amit.1603@gmail.com**
 
-- 📄 Know about my experiences [resume.hourcoding.com](resume.hourcoding.com)
+- 📄 Know about my experiences [resume.amitraikwar.com](resume.amitraikwar.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
