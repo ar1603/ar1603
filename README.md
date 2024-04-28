@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [amitraikwar.in](amitraikwar.in)
 
-- 📝 I regularly write articles on [blog.hourcoding.com](blog.hourcoding.com)
+- 📝 I regularly write articles on [blog.hourcoding.in](blog.hourcoding.in)
 
 - 💬 Ask me about **React, React-Native, Jest**
 
