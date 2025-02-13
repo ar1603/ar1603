@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, Redux, Express etc**
 
-- 👨‍💻 All of my projects are available at [amitraikwar.in](http://www.amitraikwar.in)
+- 👨‍💻 All of my projects are available at [amitraikwar.in](http://www.amitraikwar.in/projects)
 
 - 📝 I regularly write articles on [amitraikwar.in/articles](http://www.amitraikwar.in/articles)
 
