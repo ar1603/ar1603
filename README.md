@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, React-Native, Jest**
 
-- 📫 How to reach me **managerarbusiness@gmail.com | raikwar.amit.1603@gmail.com**
+- 📫 How to reach me **raikwar.amit.1603@gmail.com**
 
 - 📄 Know about my experiences [amitraikwar.in/resume](http://www.amitraikwar.in/resume)
 
