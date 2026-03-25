@@ -25,6 +25,7 @@ Projects are kept inside GH organisation to manage multiple project separately [
 
 <details>
 <summary>Click to expand</summary>
+  
 |  | NAME | LINK |
 | --- | ---- | --- | 
 | 1 | HOURCODING | https://github.com/Hourcoding-com |
@@ -35,6 +36,7 @@ Projects are kept inside GH organisation to manage multiple project separately [
 | 6 |  TOP_APPS_AI | https://github.com/TopAppsAI | 
 | 7 |  TEST_COV | https://github.com/TestCov-com | 
 | 8 | FLASHY_UI | https://github.com/FlashyUI |
+  
 </details>
 
 <div align="center">
